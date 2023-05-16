@@ -1,5 +1,7 @@
 ## Tic-Tac-Toe
 
+This is a classic game of Tic Tac Toe implemented in JavaScript
+
 ## Technologies used
 
 This website was built using the following technologies:
